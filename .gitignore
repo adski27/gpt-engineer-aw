@@ -49,3 +49,5 @@ scratchpad
 # Ignore GPT Engineer files
 projects
 !projects/example
+OPEN_API_KEY/*
+OPENAI_API_KEY.txt
